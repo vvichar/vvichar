@@ -5,6 +5,6 @@
 - 👯 I only collab if i know you.
 - 🤔 I don't need help unless i ask for it.
 - 💬 Ask me about frontend and backend stuff
-- 📫 How to reach me: mainly discord rn, @1000personas
+- 📫 How to reach me: twitter our beloved, @novainsanity
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I'm bisexual.
