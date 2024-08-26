@@ -1,6 +1,15 @@
-## Hiya, i'm stella! ✨
-Founder and CEO of Loopback, and cloverAI. non-binary. she/they. polish.
-I hope your day is nice 🫶🏼
+<p align="center">
+  <samp>
+    Hi! I'm stella. I'm currently The CEO of <a href="https://www.unbnd.net/">Loopback</a>,
+    <br>and the CEO of cloverAI, alongside with petal Tech. I'm a designer, and developer.</a>.
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    <img src="https://github.com/pifafu/pifafu/assets/5679180/07d226f9-2b92-4077-af43-37c92be369f2" width="30px">
+  </samp>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=powershell,cloudflare,gcp,workers,docker,kubernetes,supabase,git,github,githubactions,vscode,androidstudio,html,css,js,ts,py,nodejs,raspberrypi,mysql,postgres,tensorflow,nginx&perline=9" />
