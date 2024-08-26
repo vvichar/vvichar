@@ -2,6 +2,7 @@
   <samp>
     Hi! I'm stella. I'm currently The CEO of <a href="https://www.unbnd.net/">Loopback</a>,
     <br>and the CEO of cloverAI, alongside with petal Tech. I'm a designer, and developer.</a>.
+    [![Github](https://img.shields.io/github/followers/stell1x?label=Follow&style=social)](https://github.com/stell1x)
   </samp>
 </p>
 
