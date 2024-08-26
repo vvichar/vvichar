@@ -22,5 +22,5 @@
 </p>
 
 <a href="https://twitter.com/intent/follow?screen_name=stellaresident#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=x&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40stellaresident-1DA1F2?style=for-the-badge&logo=x&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
