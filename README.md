@@ -26,4 +26,6 @@
 <img src="https://img.shields.io/badge/follow-%40stellaresident-1DA1F2?style=for-the-badge&logo=x&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/827170402543468594)](https://discord.com/users/827170402543468594)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O712VN81)
