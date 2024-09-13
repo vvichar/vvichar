@@ -27,6 +27,7 @@
 </a>
 
 <div style="text-align: center;">
+  
 [![Discord Presence](https://lanyard.cnrad.dev/api/827170402543468594?borderRadius=30px)](https://discord.com/users/827170402543468594)
 </div>
 
