@@ -32,5 +32,13 @@
 <p align="center">
 <a href="https://ko-fi.com/O5O712VN81">
 <img src="https://ko-fi.com/img/githubbutton_sm.svg" >
-    <a>I also accept solana under the address 6WpfMX2hL4FeJCngfxZjjXeMhjrNFvudXTAekUTL8y2h </a>
 </a>
+
+<p align="center">
+<a>I also accept solana under the address:
+    
+```
+6WpfMX2hL4FeJCngfxZjjXeMhjrNFvudXTAekUTL8y2h
+```    
+</a>
+
