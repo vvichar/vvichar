@@ -1,7 +1,6 @@
 <p align="center">
-  <samp>
-    Hi! I'm stella. I'm currently The CEO of <a href="https://www.unbnd.net/">Loopback</a>,
-    <br>and the CEO of cloverAI, alongside with petal Tech. I'm a designer, and developer</a>.
+    Hi! I'm stella. I'm currently The CEO of <a href="https://www.github.com/unbnd/">Loopback</a>,
+    <br>and of the companies or products owned by it. I'm a designer, and developer with around 4 years of experience. (i use yarn btw) Not available for hire.</a>.
     <div/>
 
 <p align="center">
