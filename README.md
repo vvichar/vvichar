@@ -1,11 +1,11 @@
 <p align="center">
     Hi! I'm stella. I'm currently The CEO of <a href="https://www.github.com/unbnd/">Loopback</a>,
-    <br>and of the companies or products owned by it. I'm a designer, and developer with around 4 years of experience. (i use yarn btw) Not available for hire.</a>.
+    <br>and of the companies or products owned by it. I'm a designer, and developer with around 4 years of experience.</a>
     <div/>
 
 <p align="center">
-<a href="https://twitter.com/intent/follow?screen_name=tuxfunc#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40tuxfunc-1DA1F2?style=for-the-badge&logo=x&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+<a href="https://mas.to/@imstella">
+<img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff" alt="Follow me on mastodon, you can also find by bluesky there." >
 </a>
       <p align="center">
     <a href="https://github.com/stell1x/github-readme-stats#gh-dark-mode-only">
