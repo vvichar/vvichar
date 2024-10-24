@@ -15,7 +15,6 @@
 
 <p align="center">
   <samp>
-    <img src="https://github.com/pifafu/pifafu/assets/5679180/07d226f9-2b92-4077-af43-37c92be369f2" width="30px">
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
   </samp>
 </p>
@@ -33,4 +32,5 @@
 <p align="center">
 <a href="https://ko-fi.com/O5O712VN81">
 <img src="https://ko-fi.com/img/githubbutton_sm.svg" >
+    <a>I also accept solana under the address 6WpfMX2hL4FeJCngfxZjjXeMhjrNFvudXTAekUTL8y2h </a>
 </a>
