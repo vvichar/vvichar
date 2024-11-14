@@ -2,11 +2,6 @@
     Hey, i'm stella. I'm currently The CEO of <a href="https://www.github.com/unbnd/">Loopback</a>,
     <br>and well, owner of personal side projects. I'm a poopy designer tbh, and good ass developer with around 4 years of experience.</a>
     <div/>
-      <p align="center">
-    <a href="https://github.com/stell1x/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=stell1x&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="stella's Github stats" />
-  </samp>
-</p>
 
 <p align="center">
   <samp>
