@@ -1,7 +1,4 @@
-<p align="center">
-    Hey, i'm stella. I'm currently The CEO of <a href="https://www.github.com/unbnd/">Loopback</a>,
-    <br>and well, owner of personal side projects. I'm a poopy designer tbh, and good ass developer with around 4 years of experience.</a>
-    <div/>
+ # Hey, i'm stella. I'm currently The CEO of <a href="https://www.github.com/unbnd/">Loopback</a>, <br>and well, owner of personal side projects. I'm a poopy designer tbh, and good ass developer with around 4 years of experience.</a>
 
 <p align="center">
   <samp>
