@@ -1,18 +1,17 @@
- # Hey, i'm stella. I'm currently The CEO of <a href="https://www.github.com/unbnd/">Loopback</a>, <br>and well, owner of personal side projects. I'm a poopy designer tbh, and good ass developer with around 4 years of experience.</a>
+# 👋 Hey there, we're Unbound!
+**The team behind the social media client more friendly for the social internet.**
 
-<p align="center">
-  <samp>
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178c6)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
+![Vercel](https://img.shields.io/badge/Deployments-Vercel-informational?style=flat&logo=vercel&color=000000)
+![Linux](https://img.shields.io/badge/Using-Linux-informational?style=flat&logo=linux&color=FCC624)
+
+<img src="https://skillicons.dev/icons?i=cloudflare,gcp,workers,docker,kubernetes,supabase,git,vscode,androidstudio,html,css,js,ts,py,nodejs,mysql,postgres,tensorflow&perline=9" />
+
+I have deep passion for **InfoSec and Cybersecurity with ethical hacking** and **AI-driven technologies**, I turn ideas into reality with a touch of insanity and humor.
+
+- 🔭 Currently working on not-so-really-top-secret projects to reshape industries.
+- 🌱 Always expanding my knowledge and contributing back to open-source communities.
+- 🚀 On a mission to push the boundaries of what's possible with code.
+
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
-  </samp>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,gcp,workers,docker,kubernetes,supabase,git,vscode,androidstudio,html,css,js,ts,py,nodejs,mysql,postgres,tensorflow&perline=9" />
-  </a>
-</p>
-
-<p align="center">
-<a href="https://discord.com/users/827170402543468594">
-<img src="https://lanyard.cnrad.dev/api/827170402543468594?borderRadius=30px" >
-</a>
-
