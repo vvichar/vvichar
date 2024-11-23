@@ -1,5 +1,5 @@
-# 👋 Hey there, we're Unbound!
-**The team behind the social media client more friendly for the social internet.**
+# 👋 Hey there, i'm stella!
+**The person behind loopback and unbound.**
 
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178c6)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
