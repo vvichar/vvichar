@@ -1,4 +1,4 @@
-# 👋 Hey there, i'm stella!
+# 👋 Hey there, i'm charlie! 🦈
 **The person behind loopback and unbound.**
 
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178c6)
