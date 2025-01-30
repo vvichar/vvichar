@@ -15,3 +15,4 @@ I have deep passion for **InfoSec and Cybersecurity with ethical hacking** and *
 - 🚀 On a mission to push the boundaries of what's possible with code.
 
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
+    <a href='https://ko-fi.com/D1D516NJ3G' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
