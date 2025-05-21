@@ -6,7 +6,7 @@
 ![Vercel](https://img.shields.io/badge/Deployments-Vercel-informational?style=flat&logo=vercel&color=000000)
 ![Linux](https://img.shields.io/badge/Using-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-<img src="https://skillicons.dev/icons?i=cloudflare,gcp,workers,docker,kubernetes,supabase,git,vscode,androidstudio,html,css,js,ts,py,nodejs,mysql,postgres,tensorflow&perline=9" />
+<img src="https://skillicons.dev/icons?i=bash,gcp,debian,docker,linux,supabase,git,vscode,androidstudio,html,css,js,ts,py,nodejs,mysql,arduino,tensorflow&perline=9" />
 
 I am definately not an insane developer that has too many websites, and definately a full-stack developer that fucks with networks sometimes and makes shit blow up
 
