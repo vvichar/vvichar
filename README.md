@@ -1,5 +1,5 @@
 # m'lady *tips fedora*
-**hillow, i'm charlie, the person behind mosaic and other cool stuff**
+**hillow, i'm charlie, the person behind neuron and other cool stuff**
 
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178c6)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
