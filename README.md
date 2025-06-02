@@ -1,12 +1,12 @@
 # m'lady *tips fedora*
 **hillow, i'm charlie, the person behind neuron and other cool stuff**
 
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178c6)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployments-Vercel-informational?style=flat&logo=vercel&color=000000)
-![Linux](https://img.shields.io/badge/Using-Linux-informational?style=flat&logo=linux&color=FCC624)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=bash,gcp,debian,docker,linux,supabase,git,vscode,androidstudio,html,css,js,ts,py,nodejs,raspberrypi,arduino,tensorflow&perline=9" />
+<img src="https://skillicons.dev/icons?i=bash,gcp,linux,docker,raspberrypi,git,vscode,androidstudio,supabase,html,css,js,ts,py,golang,rust,cpp,postgresql&perline=9" />
 
 I am definately not an insane developer that has too many websites, and definately a full-stack developer that fucks with networks sometimes and makes shit blow up
 
