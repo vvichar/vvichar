@@ -1,4 +1,4 @@
-# m'lady *tips fedora*
+# *TLS Handshake*
 **hillow, i'm charlie, the person behind neuron and other cool stuff**
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -8,10 +8,10 @@
 
 <img src="https://skillicons.dev/icons?i=bash,gcp,linux,docker,raspberrypi,git,vscode,androidstudio,supabase,html,css,js,ts,py,golang,rust,cpp,postgresql&perline=9" />
 
-I am definately not an insane developer that has too many websites, and definately a full-stack developer that fucks with networks sometimes and makes shit blow up
+i'm the maker of many cool things @ neuron, which includes things that are currently classified *shhhh*
 
-- 🔭 currently working on unbound and unidentity over at neuron
-- 🌱 i'm learning python and other stuff
+- 🔭 working on classified things......
+- 🌱 trying to get better at coding with go, rust, c++ and react native
 - 🚀 i make computers do stuff with computers
 
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
