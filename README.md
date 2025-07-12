@@ -6,12 +6,12 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=bash,gcp,linux,docker,raspberrypi,git,vscode,androidstudio,supabase,html,css,js,ts,py,golang,rust,cpp,postgresql&perline=9" />
+<img src="https://skillicons.dev/icons?i=bash,linux,npm,yarn,docker,git,vscode,supabase,postgres,ts,svelte,rust,py,golang,react,cpp,vercel,workers&perline=9" />
 
-i'm the maker of many cool things @ neuron, which includes things that are currently classified *shhhh*
+i'm the maker of many cool things @ neuron, which includes things that are currently classified (*shhhh*)
 
 - 🔭 working on classified things......
-- 🌱 trying to get better at coding with go, rust, c++ and react native
+- 🌱 trying to get better at coding with go, c++ and react native, but mainly GRINDING on rust and typescript
 - 🚀 i make computers do stuff with computers
 
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
