@@ -1,8 +1,8 @@
 # *TLS Handshake*
 **hillow, i'm charlie, the person behind neuron and other cool stuff**
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Rust](https://img.shields.io/badge/golang-%23000000.svg?style=for-the-badge&logo=go&logoColor=white)
+![Notion](https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
@@ -11,7 +11,7 @@
 i'm the maker of many cool things @ neuron, which includes things that are currently classified (*shhhh*)
 
 - 🔭 working on classified things......
-- 🌱 trying to get better at coding with go, c++ and react native, but mainly GRINDING on rust and typescript
+- 🌱 trying to get better at coding with rust, c++ and react native, but mainly GRINDING on go and typescript
 - 🚀 i make computers do stuff with computers
 
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
