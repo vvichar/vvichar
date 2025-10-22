@@ -3,14 +3,14 @@
 
 ![Rust](https://img.shields.io/badge/golang-%23000000.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Notion](https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Hardened Windows](https://img.shields.io/badge/Hardened%20Windows-2b3d8b?logo=windows&logoColor=white&style=for-the-badge)
+![Helium](https://img.shields.io/badge/Helium-2b3d8b?logo=googlechrome&logoColor=white&style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=bash,linux,npm,yarn,docker,git,vscode,supabase,postgres,ts,svelte,rust,py,golang,react,cpp,vercel,workers&perline=9" />
+<img src="https://skillicons.dev/icons?i=bash,linux,npm,yarn,docker,git,vscode,supabase,postgres,ts,svelte,rust,py,golang,react,cpp,cloudflare,workers&perline=9" />
 
-i'm the maker of many cool things @ neuron, which includes things that are currently classified (*shhhh*)
+i'm the maker of many cool things over @madebyneuron (this should embed but it isnt idk), which includes neuron workspace, parallel, neuron research, etc
 
-- 🔭 working on classified things......
+- 🔭 currently working on small personal projects and stuff over at neuron (research and neuron workspace, etc etc)
 - 🌱 trying to get better at coding with rust, c++ and react native, but mainly GRINDING on go and typescript
 - 🚀 i make computers do stuff with computers
 
