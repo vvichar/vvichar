@@ -1,5 +1,5 @@
 # *TLS Handshake*
-**hillow, i'm charlie, the person behind neuron and other cool stuff**
+**hillow, i'm ember, the person behind neuron and other cool stuff**
 
 <img src="https://skillicons.dev/icons?i=figma,fediverse,mastodon,linux,npm,bun,nodejs,docker,git,py,golang,react&perline=6" />
 
